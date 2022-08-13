@@ -4,15 +4,15 @@ from helpers import threadlister
 
 import argparse
 
-parser = argparse.ArgumentParser(description='Process some integers.')
+parser = argparse.ArgumentParser(description='Administrator login and dashboard page finder in python3.')
 parser.add_argument('-u', type=str,required=True,
                     help='Define a target using domain name without any protocls.')
 
 parser.add_argument('-t', type=int,
-                    help='Number of threads to work parrallley')
+                    help='Number of threads to work parallelly')
 
 parser.add_argument('-w', type=str,
-                    help='Number of threads to work parrallely')
+                    help='Wordlist to use for page findings')
 
 args = parser.parse_args()
 
@@ -78,8 +78,4 @@ try:
 		print(live)
 except Exception as e: 
     print('Operation stopped due to: '+ str(e))
-
-
-
-
 
