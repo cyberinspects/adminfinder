@@ -7,11 +7,10 @@ Administrator login and dashboard page finder in python.
 4. Comes with a nice defualt wordlist
 5. Support to find PHP,HTML,ASP,HTML,JS,CFM,CGI and BRF pages.
 #How to install
-
-'''bash
+```
 git clone https://github.com/cyberinspects/adminfinder
 cd adminfinder
 pip3 install requirements.txt
 python3 adminfinder.py
-'''
+```
 
