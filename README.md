@@ -14,11 +14,10 @@ pip3 install -r requirements.txt
 python3 adminfinder.py
 ```
 ## How to use
-usage: adminfinder.py [-h] -u U [-t T] [-w W]
-
-Administrator login and dashboard page finder in python3.
-
-options:
+```
+python3 adminfinder.py -u example.com -t 50 -w mycustomlist.txt
+```
+#### options:
   -h, --help  show this help message and exit
   -u U        Define a target using domain name without any protocls.
   -t T        Number of threads to work parallelly
