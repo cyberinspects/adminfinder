@@ -1,4 +1,4 @@
-# adminfinder
+# Fastest adminfinder
 Administrator login and dashboard page finder in python.
 ## Feautures
 1. Completely commad-line tool, easy to integrate in your bash or python scripts
