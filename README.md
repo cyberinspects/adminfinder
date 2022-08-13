@@ -23,4 +23,6 @@ options:
   -u U        Define a target using domain name without any protocls.
   -t T        Number of threads to work parallelly
   -w W        Wordlist to use for page findings
+## Author
+The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), He is a professional python programmer and Cyber Security expert. He is also the owner of cyberinspects vendor. You may follow or contact him on @kaleemibnanwar social media.
 
