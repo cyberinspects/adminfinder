@@ -23,7 +23,23 @@ python3 adminfinder.py -u example.com -t 50 -w mycustomlist.txt
   -t        Number of threads to work parallelly
   -w        Wordlist to use for page findings
 ## Author
-The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), He is a professional python programmer and Cyber Security expert. He is also the owner of cyberinspects vendor. You may follow or contact him on @kaleemibnanwar social media.
+# Kaleem Ibn Anwar
+```
+⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿
+⣿⡋⠣⢖⣂⡋⡛⠚⠛⡷⢋⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⡯⣿ The script is developed by Kaleem Ibn Anwar (@kaleemibnanwar), 
+⣟⣁⡄⠉⠂⠞⢙⠣⠱⢣⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢳⡿ He is a professional python programmer and Cyber Security expert. He is also the
+⡯⢛⠀⡀⠃⠀⠊⠞⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⣿⣿⣿⣿⣿⣾⠙ owner of cyberinspects vendor. You may follow or contact him on 
+⣗⣒⣄⠀⠀⢈⡃⣠⣾⣿⣿⣿⡿⣿⣿⣿⣿⣿⣷⠄⣰⣝⢿⣿⣿⣿⠃⣙ @kaleemibnanwar
+⣟⡈⡔⠀⠐⣊⣧⣿⣿⣿⠟⠁⠀⠈⠛⠿⠛⠛⠀⢸⣿⣿⣿⣿⣿⠏⢠⣿
+⣿⣿⢖⣄⡮⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣽⣿⡟⠀⡜⣏
+⡿⢝⣦⡟⣛⣿⢾⣿⣿⣿⡧⠀⠀⠀⢠⣤⡀⠀⠀⠀⠀⠀⢀⡟⠁⡀⢱⡳
+⡵⣹⣅⣿⣿⣾⣯⣿⣾⣿⣿⣦⢿⣿⣿⣿⣷⣾⡇⠀⠀⣀⠊⠀⠀⠘⢌⣺
+⣿⣻⣿⡿⣿⡽⣿⣿⣿⣿⣿⣧⣴⣵⣍⣟⠿⣿⣿⣆⠞⠁⠀⠀⠀⠀⢻⣫
+⣻⣟⣿⣯⢾⣻⣫⣿⣿⣿⣿⣿⣤⣉⡛⠿⢿⣥⣿⡗⠀⠀⠀⠀⠀⠀⠸⣟
+⡯⣿⣿⣻⡿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⠁⠀⠀⠀⠀⠀⠀⡞⢻
+⣗⣿⣻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡀⠀⠀⠠⠤⠤⡼⣤⣻
+⣿⣿⣿⣿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡿⢷⣾⠿⠿⡿⠻
+```
 ## Follow us!
 
 ##### Instagram: [@CyberInspects](https://instagram.com/cyberinspects)
